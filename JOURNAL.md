@@ -10,7 +10,7 @@ basically, i want to make something that you can pick up, move around, and mess 
 
 ### what i did
 
-- created the initial project directory and organized it into `cad/`, `electronics/`, `firmware/`, and `images/`
+- created the initial project directory and organized it into `cad/`, `electronics/`, `firmware/`, and `images/` (![image here](/images/project-directory.png))
 - set up the README with the project goals, planned hardware, and development roadmap
 - started looking into how gyroscopes, motorized gimbals, and active stabilization systems work
 - decided to aim for 3-axis stabilization, starting with a simpler single-axis prototype
